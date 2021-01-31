@@ -1,4 +1,4 @@
-# kmapp
+# KmappContral
 
 ## Project setup
 ```
